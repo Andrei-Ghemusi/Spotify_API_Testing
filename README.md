@@ -1,1 +1,2 @@
 # Spotify_API_Testing
+In the folloswing project, I create and execute a suite of Python-based test scripts that interact with Spotify's API. These scripts encompass a range of testing scenarios, including data validation, authentication, and performance testing. My goal is to ensure that the API functions seamlessly, adheres to Spotify's documentation, and meets the high standards of data integrity and security.
