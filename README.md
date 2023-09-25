@@ -32,24 +32,13 @@ To install postman:
 - choose your platform;
 - download the app, then install it.
 
-For newman:
-
-
-
 ## Running the Project
-For postman:  SEE IMPORTANT
-  - log in
-  - import the ".json" file from this repo
-  - click on the "SPOTIFY_API" collection, then click on "Run"
-  - on the newly opened "Runner" tab, click "Run Spotify_API"
+!! SEE IMPORTANT FOR THE TOKEN.
+  - log in;
+  - import the ".json" file from this repo;
+  - click on the "SPOTIFY_API" collection, then click on "Run";
+  - on the newly opened "Runner" tab, click "Run Spotify_API";
   - now all the tests are being ran and you can see the results.
-
-For newman:
-
-
-
-## Known Issues
-
 
 ## IMPORTANT
 If running the project using Postman, you will need to generate a token:
@@ -59,11 +48,5 @@ If running the project using Postman, you will need to generate a token:
 - click on "Get New Access Token";
 - a pop up will appear;
 - if you are asked for credetials, use the following e-mail "andreispotifytest8@gmail.com" and the following password "Spotifypassword#1"
-- use this token now
-- refresh the token when needed
-
-
-
-
-
-
+- use this token now;
+- refresh the token when needed.
